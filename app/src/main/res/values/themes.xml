@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TravelEase" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="CustomDatePickerDialogTheme" parent="Theme.MaterialComponents.DayNight.Dialog">
+        <item name="colorPrimary">@color/ocean_blue</item> <!-- Header background -->
+        <item name="colorPrimaryVariant">@color/ocean_blue</item>
+        <item name="colorAccent">@color/ocean_blue</item> <!-- Action buttons -->
+        <item name="android:textColorPrimary">@android:color/black</item> <!-- Text color -->
+    </style>
+
+</resources>
