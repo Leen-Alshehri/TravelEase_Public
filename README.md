@@ -36,6 +36,9 @@ This project is the collective work of the TravelEase team:
 - [Noura Alsheddy](https://github.com/NouraAdel)
 - [Leen Alshehri](https://github.com/Leeen0)
 
+## Application Main Screens Snapshots
+
+![Screenshot of a application main Screens.](app/src/main/assets/TravelEasePoster.png)
 
 
 
