@@ -1,6 +1,6 @@
 # TravelEase Application 
 
-TravelEase is an Android application for intelligent travel planning using Kotlin and Jetpack Compose.
+**TravelEase is an Android application for intelligent travel planning using Kotlin and Jetpack Compose.**
 
 
 ![Screenshot of a application main Screens.](app/src/main/assets/TravelEasePoster.png)
@@ -38,10 +38,6 @@ This project is the collective work of the TravelEase team:
 - [Ghaida Bakarman](https://github.com/GitGhaida)
 - [Noura Alsheddy](https://github.com/NouraAdel)
 - [Leen Alshehri](https://github.com/Leeen0)
-
-## Application Main Screens Snapshots
-
-
 
 
 
