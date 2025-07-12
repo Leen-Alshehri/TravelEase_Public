@@ -1,4 +1,4 @@
-# TravelEase Application 
+# TravelEase Application  
 
 **TravelEase is an Android application for intelligent travel planning using Kotlin and Jetpack Compose.**
 
