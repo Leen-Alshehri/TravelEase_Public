@@ -37,7 +37,7 @@ This project is the collective work of the TravelEase team:
 - [Rawan Alghamdi](https://github.com/Rawan-321)
 - [Ghaida Bakarman](https://github.com/GitGhaida)
 - [Noura Alsheddy](https://github.com/NouraAdel)
-- [Leen Alshehri](https://github.com/Leeen0)
+- [Leen Alshehri](https://github.com/Leen-Alshehri)
 
 
 
